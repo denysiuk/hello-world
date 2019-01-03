@@ -1,2 +1,6 @@
 # hello-world
-GitHub Hello World Repository
+
+Hi guys! 
+
+Glad to be here and start the journey.
+Wish great luck and a good day for everyone reading this.
